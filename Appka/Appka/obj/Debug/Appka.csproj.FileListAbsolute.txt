@@ -1,0 +1,8 @@
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\bin\Debug\Appka.exe.config
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\bin\Debug\Appka.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\bin\Debug\Appka.pdb
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\obj\Debug\Appka.csprojResolveAssemblyReference.cache
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\obj\Debug\Appka.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\obj\Debug\Appka.pdb
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\obj\Debug\MainForm.resources
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Appka\Appka\obj\Debug\Appka.csproj.GenerateResource.Cache

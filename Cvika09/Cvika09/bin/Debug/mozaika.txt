@@ -1,0 +1,10 @@
+..........
+..cccccc..
+.cccccccc.
+.czzcczzc.
+.czzcczzc.
+.cccccccc.
+.czzzzzzc.
+.cccccccc.
+.c.c..c.c.
+..........

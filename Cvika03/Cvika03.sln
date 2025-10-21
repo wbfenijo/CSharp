@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cvika03", "Cvika03\Cvika03.csproj", "{AFCD53C6-DB71-4DDB-9ACD-A998BE3C47C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCD53C6-DB71-4DDB-9ACD-A998BE3C47C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCD53C6-DB71-4DDB-9ACD-A998BE3C47C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCD53C6-DB71-4DDB-9ACD-A998BE3C47C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCD53C6-DB71-4DDB-9ACD-A998BE3C47C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

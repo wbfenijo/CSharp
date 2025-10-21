@@ -1,0 +1,6 @@
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Programko\Programko\bin\Debug\Programko.exe.config
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Programko\Programko\bin\Debug\Programko.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Programko\Programko\bin\Debug\Programko.pdb
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Programko\Programko\obj\Debug\Programko.csprojResolveAssemblyReference.cache
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Programko\Programko\obj\Debug\Programko.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Programko\Programko\obj\Debug\Programko.pdb

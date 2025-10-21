@@ -1,0 +1,8 @@
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\bin\Debug\Cviko2.exe.config
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\bin\Debug\Cviko2.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\bin\Debug\Cviko2.pdb
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\obj\Debug\Cviko2.csprojResolveAssemblyReference.cache
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\obj\Debug\MainForm.resources
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\obj\Debug\Cviko2.csproj.GenerateResource.Cache
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\obj\Debug\Cviko2.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cviko2\Cviko2\obj\Debug\Cviko2.pdb
