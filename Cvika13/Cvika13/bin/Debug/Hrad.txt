@@ -1,0 +1,17 @@
+CAAAAAAAAAAAAAAAAAAC
+B                  B
+B   ____________   B
+B   #CAAAAAAAAC#   B
+B   #B         #   B
+B___#B_@_______#_@_B
+CA#AACAAAC#CAAAAAAAC
+B #       #        B
+B #     __#___     B
+B #     CAAAC#     B
+B_#__@__B   B#__@__B
+CAAAAAAACAAACAAAAAAC
+37 274
+3
+200 40
+400 250
+250 200
