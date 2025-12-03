@@ -1,0 +1,8 @@
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\obj\Debug\Cvika18.csprojResolveAssemblyReference.cache
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\obj\Debug\MainForm.resources
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\obj\Debug\Cvika18.csproj.GenerateResource.Cache
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\bin\Debug\Cvika18.exe.config
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\bin\Debug\Cvika18.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\bin\Debug\Cvika18.pdb
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\obj\Debug\Cvika18.exe
+C:\Users\adamy\OneDrive\Dokumenty\SharpDevelop Projects\Cvika18\Cvika18\obj\Debug\Cvika18.pdb
